@@ -1,3 +1,4 @@
+#!smake
 PROGRAM=tcpecho
 CC=cc
 CFLAGS=
